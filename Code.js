@@ -1,3 +1,3 @@
 function myFunction() {
-  return 1;
+  return 'prod';
 }
